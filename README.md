@@ -16,3 +16,5 @@ X
 !
 
 In any event the functionality of Systoad is heavily dependent on background processes. For example if you are running a corroded subroutine within an address space that correlates to 0x00FF00 it will NOT work. This is because the mathematical interpolation between different subroutine address spaces can create perpendicular lines IF the address spaces do not add to 2. This is a problem that cannot be solved within the Turing model and DHCP tracking systems and will be an ongoing issue for the next century.
+
+Moreover the Toad3 router does not support Kon-based tunneling. All signals will be routed through a custom Toad3 GIM loop that exclusively encrypts cookies.
